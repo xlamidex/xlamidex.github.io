@@ -1,11 +1,12 @@
 title: Wasilat Olatinwo # your name (or website title) here
-logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
+logo: "/images/newlogo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
   I create solutions through Data-Driven methods 
-   <br><br>
+  <br><br>
    
   <a href="https://www.linkedin.com/in/olamide-olatinwo/"> LinkedIn</a>
+  <br><br>
   <a href="kanyinsola.mide@yahoo.com"> E-mail</a>
   
 theme: jekyll-theme-minimal
