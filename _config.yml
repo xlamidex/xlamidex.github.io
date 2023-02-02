@@ -1,8 +1,6 @@
 title: Wasilat Olatinwo # your name (or website title) here
 logo: "/images/IMG_6672.jpg?raw=true" # your photo (or logo) here
-logo {
-  border-radius: 50%;
-}
+  border-radius: 50%
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Master's degree data science student at the University of the West of England 
 
